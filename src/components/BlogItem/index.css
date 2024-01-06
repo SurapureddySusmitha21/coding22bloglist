@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.li-contsiner {
+  list-style-type: none;
+}
+.post-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.post-heading {
+  color: #12022f;
+  font-size: 12px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.date-paragraph {
+  color: #9aa5b1;
+  font-size: 11px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.description {
+  color: #616e7c;
+  font-size: 12px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}

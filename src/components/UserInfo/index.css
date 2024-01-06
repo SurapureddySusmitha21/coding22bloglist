@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.image-url {
+  height: 16vh;
+  width: 12vw;
+}
+.wade-heading {
+  color: #12022f;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.paragraph {
+  color: #616e7c;
+  font-size: 9px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
